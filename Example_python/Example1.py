@@ -5,6 +5,8 @@ Objetivo: Ejemplo de versionamiento con git desde python
 """
 import random
 
+print("Número aleatorio entre 1 y 10")
+
 random_number = random.randint(1, 10) #Genera núms aleatorios entre un rango
 print(random_number)
 
